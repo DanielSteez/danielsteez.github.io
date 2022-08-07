@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>Gully Steez</title>
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<link rel=“icon” href=“GullySteezCircle.png/>
+<link rel="stylesheet" href="gullysteez.css">
+<script src = "Javascript/gullysteez.js" defer></script>
+<script src="https://kit.fontawesome.com/43df077d3b.js" crossorigin="anonymous"></script>
+</head>
+<body id="top">
+<header> 
+	<figure class="logo">
+		<img class="gslogo" src="https://gullymag.files.wordpress.com/2017/08/cropped-img_4037.jpg"
+	alt="Gully Steez Logo">
+		</figure>
+<nav>
+	<a href="gullysteez.html">Home</a>
+	<a href="#projects">Projects</a>
+	<a href="#music">Music</a>
+	<a href="#contactus">Contact</a>
+</nav>
+</header>
+<div id = "container"></div>
+<section>
+<h2>Gully Steez is a digital media network dedicated to showcasing all things dope since 2009.</h2> 
+<p>We operate our brands under two main goals:</p>
+<ol start="1">
+	<li>Nurture creativity through our monthly art contests</li>
+	<li>Provide people with entertaining content after a long day at work or school</li></ol>
+</section>
+<section>
+	<h3><i class="fa-solid fa-paintbrush"></i>
+		Learn More About Our Projects:</h3>
+<div class = "carousel" data-carousel>
+	<button class="carousel-button prev" data-carousel-button="prev">&#8656;</button>
+	<button class="carousel-button next" data-carousel-button="next">&#8658;</button>
+	<ul data-slides>
+		<li class="slide" data-active>
+			<img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/243757003_3015288232079274_9109936749880834008_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8UdWs999OwIAX-Jqa-m&tn=kQGaDYmQ17LnVj0_&_nc_ht=scontent-dfw5-1.xx&oh=00_AT9KlzAxuI1hQZ_X6O96JJNxr02z3vMkfHb4mDIAUMpPKQ&oe=62F22887" alt="SteezWars">
+		</li>
+		<li class="slide">
+			<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/52082282_299259444119092_4934295610623787008_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ADQcyoYbhfUAX--c-kl&_nc_ht=scontent-dfw5-2.xx&oh=00_AT9ELUkpjEI9QRZ7fklcnsq5RnKEPwpbMHIo7Yyw6qNY5g&oe=631317B2" alt="Sketcaholix">
+		</li>
+		<li class="slide">
+			<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/38918434_445864105896473_2312924602830946304_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mRLl0lbjcSsAX9f2qC5&_nc_ht=scontent-dfw5-2.xx&oh=00_AT8Sc0h3Zl1MBxDWWREJ1lWYN1cziBqHI0UwreXcTCNiqQ&oe=63121B80" alt="Blackbookology">
+		</li>
+	</ul>
+</div>
+</section>
+<section>
+	<a id=projects></a>
+		<h3><a href="http://sketchathon.com" target="_blank">Sketchathon Art Club</a></h3>
+		<p>You don't need a flashy portfolio or a long resum&eacute; to join in on this art contest. All drawings and paintings are accepted and all experience levels will have a chance to win cash prizes.</p>
+		<h3><a href="http://steezwars.com" target="_blank">Steez Wars Blackbook Graffiti Battles</a></h3>
+		<p>Steez Wars is a monthly blackbook graffiti battle with cash prizes. Sometimes we run strictly hand style battles. Sometimes we do character battles. And sometimes it's all about the wild style. You never really know what we got going on but we ALWAYS have something going on. Give it a shot!</p>
+		<h3><a href="http://sketchaholix.com" target="_blank">Sketchaholics Themed Art Contests</a></h3>
+		<p>Are you an artist that enjoys a challenge? Sketchaholics runs themed art contests with cash prizes. We're huge cartoon fans so most of our themes revisit our childhoods but we also value community opinions and run polls to draft our schedules. Check the contest site to see what we currently have running!</p>
+		<h3><a href="http://poetrystash.com" target="_blank">Secret Poetry Stash</a></h3>
+		<p>Are you a poet looking to make a positive impact with your work? Secret Poetry Stash collects poetry to create care packages for people in need. We've given away hundreds of pieces to dozens of individuals and have had participants from over 12 different countries. Join our family today!</p>
+<p>Some of our other segments:</p>
+<dl>
+	<dt><b>allthingsdope.com</b></dt>
+	<dd>An open forum used to provide updates to our community about all our projects while giving them a platform to interact with each other.</dd>
+	<dt><b>DOPE or NAH?</b></dt>
+	<dd>Dedicated to showcasing new art, music, and entertainment.</dd>
+	<dt><b>Gully Music</b></dt>
+	<dd>Hip-Hop fans unite in this Facebook group that also serves as a segment on GullyMag with its own Spotify playlist dedicated to new rap music.</dd>
+</dl>
+<p>Meet <b><a href="https://open.spotify.com/artist/1nnTNnKVxg9vGMknpnbrkN?si=wasOeAHMS7OOXCjHO_jURg&dl_branch=1" target="_blank">Timmz</a></b>, one of the latest artists we're proudly showcasing across our platforms:</p>
+<a id=music></a>
+<iframe id="timmz" src="https://open.spotify.com/embed/track/7HPDK8kfmVvZNeAJkLGt6n?utm_source=generator" height="380" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+	<a id=contactus></a>
+<p>
+<a href="mailto:danielsteez@gullysteez.com?subject=MoreInfo">Email Us!</a>
+	</p></section>
+<a href="#top">Back to top</a>
+<footer>
+	<small>ALL THINGS DOPE &copy; Gully Steez, LLC</small>
+</footer>
+</body>
+</html>
